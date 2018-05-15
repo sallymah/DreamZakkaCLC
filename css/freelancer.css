@@ -378,20 +378,3 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
-
-.service-title {
-    font-size: 30px;
-    font-weight: bold;
-    font-family:微軟正黑體;
-}
-
-.service-intro {
-    font-size: 20px;
-    font-family:微軟正黑體;
-}
-
-.service-name {
-    font-size: 30px;
-    font-family:微軟正黑體;
-    color: #1b1e21;
-}
