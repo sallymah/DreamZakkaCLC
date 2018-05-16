@@ -9,7 +9,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'Montserrat';
+  font-family: 'Montserrat','微軟正黑體';
 }
 
 hr.star-light,
@@ -377,4 +377,26 @@ a:focus, a:hover, a:active {
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
   background-color: #1a252f;
   border-color: #1a252f;
+}
+
+.service-title {
+    font-size: 30px;
+    font-weight: bold;
+    font-family:微軟正黑體;
+}
+
+.service-intro {
+    font-size: 20px;
+    font-family:微軟正黑體;
+}
+
+.service-name {
+    font-size: 30px;
+    font-family:微軟正黑體;
+    color: #1b1e21;
+}
+
+
+p {
+    font-family: '微軟正黑體';
 }
